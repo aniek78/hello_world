@@ -1,4 +1,5 @@
 # hello_world
+
 First project
-Blablabla
-and again....
+
+We have a function called `hello()` now
